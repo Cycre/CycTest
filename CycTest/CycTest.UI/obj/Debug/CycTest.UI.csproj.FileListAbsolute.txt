@@ -1,0 +1,14 @@
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\bin\Debug\CycTest.UI.exe.config
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\bin\Debug\CycTest.UI.exe
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\bin\Debug\CycTest.UI.pdb
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI.csprojResolveAssemblyReference.cache
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\MainWindow.g.cs
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\App.g.cs
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI_MarkupCompile.cache
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI_MarkupCompile.lref
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\MainWindow.baml
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI.g.resources
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI.Properties.Resources.resources
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI.csproj.GenerateResource.Cache
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI.exe
+D:\Essentials\Hosted Files\CycTest\CycTest\CycTest.UI\obj\Debug\CycTest.UI.pdb
